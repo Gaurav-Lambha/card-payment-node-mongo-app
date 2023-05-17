@@ -1,0 +1,22 @@
+{
+  "name": "card-management-node-mongo",
+  "version": "1.0.0",
+  "description": " apis to save/edit/delete the record ",
+  "main": "no",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "author": "Gaurav Lambha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^5.5.0",
+    "mongoose": "^7.1.1"
+  }
+}
